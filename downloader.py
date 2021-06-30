@@ -1,4 +1,3 @@
-from logging import root
 import pytube
 from tkinter import messagebox, filedialog as fd
 
